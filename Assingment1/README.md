@@ -1,6 +1,6 @@
 <h5>
 Task_1.py Does the following in the code: </h5>
-First it takes two numbers as input from the user and then performs the basic mathematical operations on these two numbers:
+First it takes two numbers as input from the user and then performs the basic mathematical operations on these two numbers:<br>
 1. Addition<br>
 2. Subtraction<br>
 3. Multiplication<br>
