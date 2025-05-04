@@ -1,10 +1,10 @@
 <h5>
 Task_1.py Does the following in the code: </h5>
 First it takes two numbers as input from the user and then performs the basic mathematical operations on these two numbers:
-<p>1. Addition</p>
-<p>2. Subtraction</p>
-<p>3. Multiplication</p>
-<p>4. Division</p>
+1. Addition<br>
+2. Subtraction<br>
+3. Multiplication<br>
+4. Division<br>
 And Lastly displays the results of each operation on the screen.
 
 <h5>Task_2.py Does the following in the code:</h5>
